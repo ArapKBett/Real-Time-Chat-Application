@@ -9,5 +9,5 @@ Step 3: Update the Server
 Step 4: Update the Client
 
 Step 5: Run Your Project
-```npm run dev
-npm run server```
+```npm run dev```
+```npm run server```
